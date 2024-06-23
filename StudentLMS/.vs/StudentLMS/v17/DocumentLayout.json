@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|e:\\c-sharp-.net_pracice _files\\studentlms\\studentlms\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|solutionrelative:studentlms\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|e:\\c-sharp-.net_pracice _files\\studentlms\\studentlms\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|solutionrelative:studentlms\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|e:\\c-sharp-.net_pracice _files\\studentlms\\studentlms\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|solutionrelative:studentlms\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|e:\\c-sharp-.net_pracice _files\\studentlms\\studentlms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|solutionrelative:studentlms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|e:\\c-sharp-.net_pracice _files\\studentlms\\studentlms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|solutionrelative:studentlms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|e:\\c-sharp-.net_pracice _files\\studentlms\\studentlms\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|solutionrelative:studentlms\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|e:\\c-sharp-.net_pracice _files\\studentlms\\studentlms\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|solutionrelative:studentlms\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|e:\\c-sharp-.net_pracice _files\\studentlms\\studentlms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|solutionrelative:studentlms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|e:\\c-sharp-.net_pracice _files\\studentlms\\studentlms\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433E5825-8D85-4E32-9054-A65FA5088294}|StudentLMS\\StudentLMS.csproj|solutionrelative:studentlms\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentLMS\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentLMS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAADAZWZmZmY4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T02:16:37.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentLMS\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentLMS\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T00:47:21.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentLMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentLMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAABgZGZmZmYkwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T18:00:49.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentLMS\\Views\\Students\\List.cshtml",
+              "ToolTip": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentLMS\\Views\\Students\\List.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:50:55.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Program.cs",
+              "RelativeDocumentMoniker": "StudentLMS\\Program.cs",
+              "ToolTip": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Program.cs",
+              "RelativeToolTip": "StudentLMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:01:23.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentLMS\\Models\\Entities\\Student.cs",
+              "ToolTip": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentLMS\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:47:11.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentLMS\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentLMS\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:28:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentLMS\\Views\\Students\\Add.cshtml",
+              "ToolTip": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentLMS\\Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T03:57:57.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentLMS\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\c-sharp-.net_pracice _files\\StudentLMS\\StudentLMS\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentLMS\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAB0AAACAqpmZmZkawCMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T03:54:19.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
